@@ -2,7 +2,7 @@
 
 No contexto da segurança da informação, a perícia forense computacional busca investigar e analisar evidências digitais em casos de crimes cibernéticos, incidentes de segurança e fraudes eletrônicas. Em tempos de soluções digitais integradas ao cotidiano, onde a tecnologia é protagonista em várias esferas da sociedade, a necessidade de profissionais especializados em investigar e interpretar dados de sistemas computacionais torna-se imprescindível.
 
-Nesta mesma direção, a atividade explora os fundamentos da perícia forense computacional aplicada a um cenário totalmente hipotético, em um computador que era utilizado por um funcionário de uma empresa. Há suspeitas de que o funcionário estava armazenando dados sigilosos, como documentos e imagens, além de acessar indevidamente sites não autorizados pela organização. Dessa forma, a direção da empresa solicitou uma análise detalhada do referido computador, com o objetivo de validar ou não as suspeitas.
+Nesta mesma direção, a atividade explora os fundamentos da perícia forense computacional aplicada a um cenário totalmente hipotético envolvendo um computador utilizado por um funcionário de uma empresa fictícia chamada TechGuard Solutions. Há suspeitas de que o funcionário estaria utilizando o computador e a internet da empresa para a mineração de criptomoeda, uma atividade proibida pelo regimento interno da empresa. Dessa forma, a direção da TechGuard Solutions solicitou uma análise detalhada do referido computador, com o objetivo de validar ou refutar essas suspeitas.
 
 A análise forense do computador, obtido como evidência, pode revelar informações cruciais sobre como o usuário utilizava o dispositivo. Para amparar o desenvolvimento da prática de perícia, deverão ser exploradas técnicas e ferramentas para a extração de informações relevantes do disco rígido, rastreando possíveis documentos, imagens ocultas e sites suspeitos.
 
@@ -22,6 +22,25 @@ A análise forense do computador, obtido como evidência, pode revelar informaç
 - Acesse a VM carregando ou importando a imagem no [VirtualBox](https://www.virtualbox.org/).
 - Inicie a VM e aguarde o carregamento do SO.
 - Login na máquina virtual: Usuario/pucminas
+
+#### Passo 2.1: Objetivos da tarefa:
+1. **Encontrar Indícios de Envolvimento com Criptomoeda**
+   - Identificar qualquer evidência que sugira que o funcionário estava envolvido em atividades relacionadas à mineração de criptomoedas.
+
+2. **Encontrar o Código em C**
+   - Localizar o programa em C que, conforme alertado, pode estar sendo utilizado para a mineração de criptomoedas.
+
+3. **Utilizar os Passos para Perícia Digital**
+   - **Clonar a Imagem do Disco:**
+     - Realizar a clonagem do disco rígido do computador suspeito para garantir a integridade das evidências.
+   - **Análise da Imagem Clonada:**
+     - Examinar a imagem clonada do disco rígido em busca de evidências de atividades de mineração e do código em C.
+   - **Documentação das Evidências:**
+     - Documentar todas as etapas do processo de investigação, incluindo a coleta, análise e interpretação das evidências.
+   - **Relatório Final:**
+     - Preparar um relatório detalhado apresentando as conclusões da investigação, incluindo a presença ou ausência de atividades de mineração de criptomoedas e a utilização do programa em C para essa finalidade.
+
+
 
 
 ### Passo 3: Relatório de Arquivos
