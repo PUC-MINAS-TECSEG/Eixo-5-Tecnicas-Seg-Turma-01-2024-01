@@ -6,8 +6,23 @@ Nesta mesma direção, a atividade explora os fundamentos da perícia forense co
 
 A análise forense do computador, obtido como evidência, pode revelar informações cruciais sobre como o usuário utilizava o dispositivo. Para amparar o desenvolvimento da prática de perícia, deverão ser exploradas técnicas e ferramentas para a extração de informações relevantes do disco rígido, rastreando possíveis documentos, imagens ocultas e sites suspeitos.
 
+## Quesitos da perícia
+
+> 1. Foram encontrados arquivos para mineração de criptomoedas?
+>2. Foram encontrados acessos em sites sobre criptomoeda?
+
 
 🚩 **ATENÇÃO:** É importante observar que a tecnologia de virtualização esteja habilitada no computador de trabalho (conforme instruções do fabricante).
+
+# Entregas:
+
+- [Entrega Tarefa 3 - Etapa 3 **(16/06/2024)**](https://pucminas.instructure.com/courses/178148/assignments/858711)
+  - Relatório com evidência(s) encontradas na análise da imagem do computador.
+- [Entrega Tarefa 4 - Etapa 4 **(19/06/2024)**](https://pucminas.instructure.com/courses/178148/assignments/858712)
+  - Documento de relatório de perícia computacional **(pdf)**, em conformidade ao modelo proposto.
+- [Entrega Tarefa 5 - Etapa 5 **(23/06/2024)**](https://pucminas.instructure.com/courses/178148/assignments/858713)
+  - Vídeo de apresentação da realização das atividades **(mp4)**, com propósito de comentar a abordagem e identificar os principais procedimentos desenvolvidos
+
 
 ## Para orientar a execução adequada das tarefas dessa etapa, são propostos os seguintes passos:
 
@@ -42,9 +57,6 @@ A análise forense do computador, obtido como evidência, pode revelar informaç
      - Documentar todas as etapas do processo de investigação, incluindo a coleta, análise e interpretação das evidências.
    - **Relatório Final:**
      - Preparar um relatório detalhado apresentando as conclusões da investigação, incluindo a presença ou ausência de atividades de mineração de criptomoedas e a utilização do programa em C para essa finalidade.
-
-
-
 
 ### Passo 3: Relatório de Arquivos
 
