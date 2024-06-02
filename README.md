@@ -24,6 +24,9 @@ A análise forense do computador, obtido como evidência, pode revelar informaç
 - Login na máquina virtual: Usuario/pucminas
 
 #### Passo 2.1: Objetivos da tarefa:
+
+>Utilizando de ferramentas que possam auxiliar na análise forense, em especial o Autopsy, os objetivos da tarefa são:
+
 1. **Encontrar Indícios de Envolvimento com Criptomoeda**
    - Identificar qualquer evidência que sugira que o funcionário estava envolvido em atividades relacionadas à mineração de criptomoedas.
 
