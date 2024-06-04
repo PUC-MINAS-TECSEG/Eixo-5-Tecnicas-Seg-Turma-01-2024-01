@@ -36,7 +36,9 @@ A análise forense do computador, obtido como evidência, pode revelar informaç
 
 - Acesse a VM carregando ou importando a imagem no [VirtualBox](https://www.virtualbox.org/).
 - Inicie a VM e aguarde o carregamento do SO.
-- Login na máquina virtual: Usuario/pucminas
+- Login na máquina virtual:
+- usuário: Usuario
+- senha: pucminas
 
 #### Passo 2.1: Objetivos da tarefa:
 
